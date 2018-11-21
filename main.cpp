@@ -5,7 +5,7 @@ using namespace std;
 using namespace cv;
 
 int main() {
-    cout << "Hello, World!" << endl;
+//    cout << "Hello, World!" << endl;
 
     Mat img = imread("../test.jpg");
 
