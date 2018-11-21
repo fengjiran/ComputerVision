@@ -14,7 +14,7 @@ int main() {
         return -1;
     }
 
-    imshow("test.jpg", img);
+    imshow("test", img);
     waitKey();
 
     return 0;
